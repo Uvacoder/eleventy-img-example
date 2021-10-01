@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/fpapado/11ty-img-example/issues"
   },
-  "homepage": "https://github.com/fpapado/11ty-img-example#readme",
+  "homepage": "https://eleventy-img-example.vercel.app",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-img": "^0.7.4",
